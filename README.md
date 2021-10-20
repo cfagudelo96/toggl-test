@@ -10,7 +10,7 @@ by changing the environment variable PORT to a different one.
 
 To execute the unit test the command `go test ./...`
 
-Only unit test for the deck domain package were provided for time constraints.
+Only unit test for the deck domain package and some functionalities from the service package were provided for time constraints.
 
 ## Create new deck
 
